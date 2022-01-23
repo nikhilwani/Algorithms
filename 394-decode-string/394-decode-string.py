@@ -15,13 +15,11 @@ class Solution:
             c = s[i]
             
             if c.isdigit():
-                num = ((num * 10) + int(c) - int('0'))
-                print("nnumm")
-                print(num)
+                num = ((num * 10) + int(c) )
+                print("num formed",num)
             
             elif (c == '['):
-                print("num:")
-                print(num)
+                print("num:",num)
                 numstack.append(num)
                 strstack.append(currstr)
                 num = 0
