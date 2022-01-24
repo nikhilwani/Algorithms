@@ -1,8 +1,10 @@
+from collections import deque
+
 class Solution:
     
     dirs = [[0, 1], [0, -1], [1, 0], [-1, 0]]
 
-    
+    # BFS    
     def numIslands(self, grid: List[List[str]]) -> int:
         
         if grid == None or len(grid) == 0:
@@ -13,18 +15,34 @@ class Solution:
         
         
         count = 0 
+        queue = deque()
         
+
         for i in range(m):
             for j in range(n):
                 
                 if grid[i][j] == '1':
                     count = count + 1
+                    queue.append([i,j])
                     
-                    self.dfs(grid, i, j, m, n)    
+                    while queue:
+                        curr = queue.popleft()
+                        
+                        for dirr in self.dirs:
+                            print(dirr[0], dirr[1])
+                            r = curr[0] + dirr[0]
+                            c = curr[1] + dirr[1]
+                            
+                            if (r >= 0 and c >= 0 and r < m and c < n and grid[r][c] == '1'):
+                                grid[r][c] = '0'
+                                queue.append([r,c])
+                            
        
-        return count     
+        return count   
                     
         
+'''
+    # DFS
     def dfs(self, grid, r, c, m, n):
     
         # Base
@@ -41,7 +59,7 @@ class Solution:
             self.dfs(grid, i, j, m, n)
     
     
-    
+'''    
     
 ''' 
     def numIslands(self, grid: List[List[str]]) -> int:
