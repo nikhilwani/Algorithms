@@ -10,6 +10,8 @@ Collection of LeetCode questions to ace the coding interview!
 
 ## Depth First Search (DFS)
 - [x] flood-fill
+    - [ ] DFS https://leetcode.com/submissions/detail/626776523/ 
+    - [ ] BFS https://leetcode.com/submissions/detail/623877444/
 - [x] Nearest Zero ( 0 - 1 Matrix)
 - [ ] Count of islands
     - [x] DFS https://leetcode.com/submissions/detail/626585294/
