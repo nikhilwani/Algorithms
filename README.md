@@ -31,8 +31,11 @@ Collection of LeetCode questions to ace the coding interview!
 - [ ] 
 
 ## N-ary Tree
-- [ ] 
-- [x] 994-rotting-oranges
+- [ ] N-ary Tree Pre-order Traversal https://leetcode.com/problems/n-ary-tree-preorder-traversal/
+- [x] N-ary Tree Post-order Traversal https://leetcode.com/problems/n-ary-tree-postorder-traversal
+- [ ] N-ary Tree Level Order Traversal https://leetcode.com/problems/n-ary-tree-level-order-traversal
+- [ ] Maximum Depth of N-ary Tree https://leetcode.com/problems/maximum-depth-of-n-ary-tree
+
 
 ## Binary Tree
 - [ ] 
