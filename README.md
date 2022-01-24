@@ -13,7 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 - [x] Nearest Zero 
 - [ ] Count of islands
     - [x] DFS https://leetcode.com/submissions/detail/626585294/
-    - [ ] BFS  
+    - [x] BFS https://leetcode.com/submissions/detail/626612364/ 
 - [x] 394-decode-string
     - [ ] [Iterative](https://leetcode.com/submissions/detail/626560301/)
     - [ ] Recursive [https://leetcode.com/submissions/detail/626203404/] Notes: i is class global variable, use self to reference it everywhere in local scope. 
