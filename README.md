@@ -29,3 +29,11 @@ Collection of LeetCode questions to ace the coding interview!
 - [ ] 
 - [x] 994-rotting-oranges
 - [ ] 
+
+## N-ary Tree
+- [ ] 
+- [x] 994-rotting-oranges
+
+## Binary Tree
+- [ ] 
+- [x] 994-rotting-oranges
