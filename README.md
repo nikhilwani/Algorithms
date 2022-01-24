@@ -13,8 +13,14 @@ Collection of LeetCode questions to ace the coding interview!
 - [x] Nearest Zero 
 - [ ] Count of islands
 - [x] 394-decode-string
-          - [ ] Iterative [https://leetcode.com/submissions/detail/626560301/] 
-          - [ ] Recursive [https://leetcode.com/submissions/detail/626203404/]
+    - [ ] Iterative [https://leetcode.com/submissions/detail/626560301/] 
+    - [ ] Recursive [https://leetcode.com/submissions/detail/626203404/]
+
+- [ ] 394-decode-string
+    - [ ] Child - 1
+    - [ ] Child - 2
+    - [ ] Child - 3
+    - [ ] Child - 4
 
           
 ## Breadth First Search (BFS)
