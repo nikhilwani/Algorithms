@@ -19,15 +19,14 @@ class Solution:
                 
                 if grid[i][j] == '1':
                     count = count + 1
-                    #print("going in")
+                    
                     self.dfs(grid, i, j, m, n)    
-                    #print("out")
+       
         return count     
                     
         
     def dfs(self, grid, r, c, m, n):
-        
-        print("Indside dfs")
+    
         # Base
         if (r < 0 or c < 0 or r == m or c == n or grid[r][c] != '1'):
             return 
