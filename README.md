@@ -50,6 +50,6 @@ Collection of LeetCode questions to ace the coding interview!
 
 ## List except self
 - [ ] Product except self 
-- [x] Find pivot index (sum of all the no of left = right) - (Do on paper, ranges are different for reverse) Two fors is easier. 
+- [x] Find pivot index (sum of all the no of left = right) - (Do on paper, ranges are different for reverse) Two fors is easier. Zip for comparison.  https://leetcode.com/submissions/detail/628123635/
 
 
