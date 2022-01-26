@@ -47,3 +47,9 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 - [ ] 
 - [x] 994-rotting-oranges
+
+## List except self
+- [ ] Product except self 
+- [x] Find pivot index (sum of all the no of left = right) - (Do on paper, ranges are different for reverse) Two fors is easier. 
+
+
