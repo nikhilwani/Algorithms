@@ -99,10 +99,11 @@ class Solution:
         
         
         self.helper(root.left, cursum)
+        self.helper(root.right, cursum)
         
         if root.left == None and root.right == None:
             self.rootsum = self.rootsum + cursum
         
         
-        self.helper(root.right, cursum)
+        
            
