@@ -1,5 +1,5 @@
 # Algorithms
-Collection of LeetCode questions to ace the coding interview!
+Collection of LeetCode solutions to ace the coding interview!
 
 ## Matrix
 - [ ] Diagonal iteration
