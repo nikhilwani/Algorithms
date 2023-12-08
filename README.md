@@ -2,11 +2,11 @@
 Collection of LeetCode solutions to ace the coding interview!
 
 ## Matrix
-- [ ] Diagonal iteration
-- [ ] Spiral Traversal
-- [ ] Disappeared numbers
-- [ ] Max and Min
-- [ ] Game of Life
+- [x] Diagonal iteration
+- [x] Spiral Traversal
+- [x] Disappeared numbers
+- [x] Max and Min
+- [x] Game of Life
 
 ## Depth First Search (DFS)
 - [x] flood-fill
@@ -14,18 +14,18 @@ Collection of LeetCode solutions to ace the coding interview!
     - [x] BFS https://leetcode.com/submissions/detail/623877444/
 
 - [x] Nearest Zero ( 0 - 1 Matrix)
-    - [ ] DFS
-    - [ ] BFS 
+    - [x] DFS
+    - [x] BFS 
 
 - [ ] Count of islands
     - [x] DFS https://leetcode.com/submissions/detail/626585294/
     - [x] BFS https://leetcode.com/submissions/detail/626612364/ 
 
 - [x] 394-decode-string
-    - [ ] [Iterative](https://leetcode.com/submissions/detail/626560301/)
-    - [ ] Recursive [https://leetcode.com/submissions/detail/626203404/] Notes: i is class global variable, use self to reference it everywhere in local scope. 
+    - [x] [Iterative](https://leetcode.com/submissions/detail/626560301/)
+    - [x] Recursive [https://leetcode.com/submissions/detail/626203404/] Notes: i is class global variable, use self to reference it everywhere in local scope. 
 
-- [ ] 394-decode-string
+- [x] 394-decode-string
 
           
 ## Breadth First Search (BFS)
@@ -42,7 +42,7 @@ Collection of LeetCode solutions to ace the coding interview!
 - [x] 994-rotting-oranges
 
 ## List except self
-- [ ] Product except self 
+- [x] Product except self 
 - [x] Find pivot index (sum of all the no of left = right) - (Do on paper, ranges are different for reverse) Two fors is easier. Zip for comparison.  https://leetcode.com/submissions/detail/628123635/
 
 
