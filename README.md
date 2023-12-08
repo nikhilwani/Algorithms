@@ -29,9 +29,7 @@ Collection of LeetCode solutions to ace the coding interview!
 
           
 ## Breadth First Search (BFS)
-- [ ] 
 - [x] 994-rotting-oranges
-- [ ] 
 
 ## N-ary Tree
 - [ ] N-ary Tree Pre-order Traversal https://leetcode.com/problems/n-ary-tree-preorder-traversal/
@@ -41,7 +39,6 @@ Collection of LeetCode solutions to ace the coding interview!
 
 
 ## Binary Tree
-- [ ] 
 - [x] 994-rotting-oranges
 
 ## List except self
