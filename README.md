@@ -26,10 +26,6 @@ Collection of LeetCode solutions to ace the coding interview!
     - [ ] Recursive [https://leetcode.com/submissions/detail/626203404/] Notes: i is class global variable, use self to reference it everywhere in local scope. 
 
 - [ ] 394-decode-string
-    - [ ] Child - 1
-    - [ ] Child - 2
-    - [ ] Child - 3
-    - [ ] Child - 4
 
           
 ## Breadth First Search (BFS)
